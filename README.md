@@ -31,8 +31,6 @@
   - JavaScript
   - Python
   - Java
-  - HTML5
-  - CSS3
   - Node.js
 
 <hr>
