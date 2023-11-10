@@ -1,7 +1,6 @@
 <h1 align="center"> Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="36px" width="29px">, I'm Arthur Wts </h1>
 
 <p align="center">
-<a href="https://github.com/arthurwts" target="blank"><img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&width=380&height=45&lines=Open-Source+Enthusiast+❤️;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
 </p>
 
 <br>
